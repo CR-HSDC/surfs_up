@@ -10,7 +10,7 @@ The findings of this analysis are discussed within the "Results" section below.
 
 The results of this analysis are summarized in in *Figure 1* and *Figure 2*.
 
-![Figure 1](https://github.com/CR-HSDC/surfs_up/blob/main/resources/Figure1.png)
+![Figure 1](https://github.com/CR-HSDC/surfs_up/blob/main/resources/Figure1_.png)
 **_Figure 1_:** June Summary Statistics
 
 ![Figure 1](https://github.com/CR-HSDC/surfs_up/blob/main/resources/Figure2.png)
